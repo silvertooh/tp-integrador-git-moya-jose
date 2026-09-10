@@ -17,4 +17,4 @@ Organizar, gestionar y documentar un conjunto de preparaciones artesanales aplic
 José Luis Moya
 
 ## Estado del proyecto
-En desarrollo
+En revisión final
