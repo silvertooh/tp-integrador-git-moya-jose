@@ -6,9 +6,9 @@
 - Fecha de entrega: 10/09/2026
 
 ## Enlaces
-- Repositorio de GitHub: https://github.com/tu-usuario/tp-integrador-git-moya-jose
-- Issue: https://github.com/tu-usuario/tp-integrador-git-moya-jose/issues/1
-- Pull request: https://github.com/tu-usuario/tp-integrador-git-moya-jose/pull/1
+- Repositorio de GitHub: https://github.com/silvertooh/tp-integrador-git-moya-jose
+- Issue: https://github.com/silvertooh/tp-integrador-git-moya-jose/issues/1
+- Pull request: https://github.com/silvertooh/tp-integrador-git-moya-jose/pull/2
 
 ## Comandos principales utilizados
 - git init
